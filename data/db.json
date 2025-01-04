@@ -1,0 +1,164 @@
+{
+    "products": [
+        {
+          "id": 10001,
+          "img_url": "https://picsum.photos/200?random=1",
+          "img_description": "A visually striking representation that captures the essence of Python programming. The image might feature abstract patterns or code-related visuals, symbolizing the simplicity and versatility of Python. Perfect for beginners and experienced programmers alike, it hints at the dynamic and powerful applications of Python in web development, data science, and more.",
+          "course_name": "Introduction to Python",
+          "price": 49.99,
+          "in_stock": true
+        },
+        {
+          "id": 10002,
+          "img_url": "https://picsum.photos/200?random=2",
+          "img_description": "This vibrant image portrays advanced JavaScript concepts through abstract art or digital themes. It reflects JavaScript's role in making interactive, user-friendly web applications. The depiction is energetic and dynamic, much like the language itself, emphasizing its importance in modern development frameworks like React, Angular, and Vue.",
+          "course_name": "Advanced JavaScript",
+          "price": 79.99,
+          "in_stock": true
+        },
+        {
+          "id": 10003,
+          "img_url": "https://picsum.photos/200?random=3",
+          "img_description": "A comprehensive depiction of web development, featuring elements like laptops, coding symbols, and digital networks. This image highlights the collaborative and creative process of building websites, touching on both front-end and back-end development. It's a perfect representation of a bootcamp environment, emphasizing practical skills and teamwork.",
+          "course_name": "Web Development Bootcamp",
+          "price": 129.99,
+          "in_stock": false
+        },
+        {
+          "id": 10004,
+          "img_url": "https://picsum.photos/200?random=4",
+          "img_description": "An analytical image showcasing patterns, charts, and data streams, symbolizing the world of data science. It emphasizes the importance of extracting insights from raw data. The depiction is futuristic, reflecting the cutting-edge tools and technologies data scientists use to solve real-world problems.",
+          "course_name": "Data Science Essentials",
+          "price": 99.99,
+          "in_stock": true
+        },
+        {
+          "id": 10005,
+          "img_url": "https://picsum.photos/200?random=5",
+          "img_description": "This image embodies the complexity and elegance of machine learning. It features neural networks, abstract diagrams, or AI-related symbols. It conveys the idea of teaching machines to learn and adapt, reflecting the intricate algorithms and real-world applications of machine learning in areas like robotics, healthcare, and predictive analytics.",
+          "course_name": "Machine Learning Basics",
+          "price": 119.99,
+          "in_stock": false
+        },
+        {
+          "id": 10006,
+          "img_url": "https://picsum.photos/200?random=6",
+          "img_description": "A powerful illustration representing cybersecurity. It may include locks, shields, or data grids, symbolizing protection against cyber threats. The design reflects the importance of safeguarding sensitive information, emphasizing ethical hacking, network security, and secure system designs in a world increasingly reliant on digital infrastructures.",
+          "course_name": "Cybersecurity Fundamentals",
+          "price": 89.99,
+          "in_stock": true
+        },
+        {
+          "id": 10007,
+          "img_url": "https://picsum.photos/200?random=7",
+          "img_description": "A visually captivating image illustrating the world of cloud computing. It may feature interconnected devices, clouds, and data flows, symbolizing scalability, storage, and the global reach of cloud technologies. This image reflects how cloud computing revolutionizes business operations, offering flexible and efficient solutions.",
+          "course_name": "Cloud Computing 101",
+          "price": 69.99,
+          "in_stock": true
+        },
+        {
+          "id": 10008,
+          "img_url": "https://picsum.photos/200?random=8",
+          "img_description": "An engaging depiction of DevOps, featuring pipelines, gears, and team collaboration symbols. It captures the seamless integration of development and operations, emphasizing automation and efficiency. The image highlights continuous integration, delivery, and deployment practices that are at the heart of modern software development.",
+          "course_name": "DevOps Practices",
+          "price": 99.99,
+          "in_stock": false
+        },
+        {
+          "id": 10009,
+          "img_url": "https://picsum.photos/200?random=9",
+          "img_description": "An abstract yet meaningful image that reflects the potential of artificial intelligence. The depiction might include human brains and circuit boards, symbolizing the merger of human creativity and machine precision. It conveys the impact of AI across industries like healthcare, finance, and entertainment.",
+          "course_name": "AI for Beginners",
+          "price": 79.99,
+          "in_stock": true
+        },
+        {
+          "id": 10010,
+          "img_url": "https://picsum.photos/200?random=10",
+          "img_description": "An artistic representation emphasizing the essence of UI/UX design. It features vibrant layouts, interface elements, and user flow diagrams, capturing the balance of aesthetics and functionality. The image symbolizes creating intuitive and engaging experiences, reflecting the principles of user-centered design.",
+          "course_name": "UI/UX Design Principles",
+          "price": 59.99,
+          "in_stock": true
+        },
+        {
+          "id": 10011,
+          "img_url": "https://picsum.photos/200?random=11",
+          "img_description": "An image that visually represents the fundamentals of HTML and CSS. It may feature web elements like forms, buttons, and text styling, emphasizing the foundation of web development. Perfect for beginners aiming to build structured and visually appealing websites.",
+          "course_name": "HTML & CSS Basics",
+          "price": 39.99,
+          "in_stock": true
+        },
+        {
+          "id": 10012,
+          "img_url": "https://picsum.photos/200?random=12",
+          "img_description": "A dynamic visualization of React concepts, highlighting its component-based architecture and virtual DOM. The image symbolizes the power of building interactive user interfaces efficiently with React.",
+          "course_name": "React Fundamentals",
+          "price": 79.99,
+          "in_stock": false
+        },
+        {
+          "id": 10013,
+          "img_url": "https://picsum.photos/200?random=13",
+          "img_description": "An engaging depiction of backend development with Node.js. The image may include server icons and JavaScript symbols, representing the creation of scalable and fast web applications.",
+          "course_name": "Node.js Mastery",
+          "price": 89.99,
+          "in_stock": true
+        },
+        {
+          "id": 10014,
+          "img_url": "https://picsum.photos/200?random=14",
+          "img_description": "A futuristic image showcasing blockchain technology, featuring interconnected blocks and digital ledgers. It symbolizes the decentralized and secure nature of blockchain systems.",
+          "course_name": "Blockchain Essentials",
+          "price": 149.99,
+          "in_stock": false
+        },
+        {
+          "id": 10015,
+          "img_url": "https://picsum.photos/200?random=15",
+          "img_description": "A captivating illustration of augmented reality (AR) and virtual reality (VR) concepts. The image highlights immersive technologies used in gaming, education, and training.",
+          "course_name": "AR & VR Basics",
+          "price": 109.99,
+          "in_stock": true
+        },
+        {
+          "id": 10016,
+          "img_url": "https://picsum.photos/200?random=16",
+          "img_description": "A sleek representation of Agile and Scrum practices, featuring team collaboration, boards, and iterative workflows. The image emphasizes efficiency and adaptability in project management.",
+          "course_name": "Agile & Scrum Methodologies",
+          "price": 69.99,
+          "in_stock": true
+        },
+        {
+          "id": 10017,
+          "img_url": "https://picsum.photos/200?random=17",
+          "img_description": "A colorful depiction of Python's data analysis capabilities, including graphs, charts, and datasets. The image reflects Python's utility in transforming raw data into actionable insights.",
+          "course_name": "Python for Data Analysis",
+          "price": 79.99,
+          "in_stock": false
+        },
+        {
+          "id": 10018,
+          "img_url": "https://picsum.photos/200?random=18",
+          "img_description": "An energetic illustration showcasing digital marketing strategies like SEO, social media, and email campaigns. The image represents the creative and analytical aspects of marketing in the digital age.",
+          "course_name": "Digital Marketing Mastery",
+          "price": 99.99,
+          "in_stock": true
+        },
+        {
+          "id": 10019,
+          "img_url": "https://picsum.photos/200?random=19",
+          "img_description": "A vibrant image symbolizing Kotlin programming, featuring clean and concise code blocks. It reflects Kotlin's growing popularity for Android app development.",
+          "course_name": "Kotlin for Android",
+          "price": 89.99,
+          "in_stock": false
+        },
+        {
+          "id": 10020,
+          "img_url": "https://picsum.photos/200?random=20",
+          "img_description": "An inspiring depiction of entrepreneurship, featuring icons like light bulbs, graphs, and teamwork. The image represents innovation and business planning, ideal for aspiring entrepreneurs.",
+          "course_name": "Entrepreneurship 101",
+          "price": 59.99,
+          "in_stock": true
+        }
+      ]      
+}

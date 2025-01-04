@@ -1,0 +1,87 @@
+section {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.btn {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center; /* Align buttons to the left */
+  gap: 10px; /* Add space between buttons */
+}
+
+.btn button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.btn button:hover {
+  background-color: #0056b3;
+}
+
+.card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.card .productName {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.card .price {
+  font-size: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card .price span.Available {
+  color: green;
+}
+
+.card .price span.NotAvailable {
+  color: red;
+}
+
+.img_des {
+  margin-bottom: 10px;
+}
+
+.img_des p {
+  text-align: start;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+section {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+section > .btn {
+  grid-column: 1 / -1; /* Ensure buttons span the full width */
+}
